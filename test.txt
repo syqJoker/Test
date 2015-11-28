@@ -1,18 +1,5 @@
-This is a test 
-Microsoft is not the worst system in the world
-Why you say that?
-Sorry, maybe that is my fault.
-
-
-
-------------------------------
-
-But Mac, Really so good?
-
-Maybe, but not in China.
-
-So no prefect SYSTEM in the world.
-
-and? 
-
-
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes of files.
+But in CITI, never use that.
