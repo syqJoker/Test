@@ -5,3 +5,4 @@ Git tracks changes of files.
 But in CITI, never use that.
 Indian are stupid.
 I believe that.
+Creating a new branch is quick.
